@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,300&display=swap');
+body{
+    font-family: 'Kanit', sans-serif;
+}
+section{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.top-banner{
+    background-color: black;
+    border-radius: 20px;
+    height: max-content;
+}
+.btn-1{
+    background-color: tomato;
+    height: 40px;
+    width: 100px;
+    border-radius: 10px;
+    font-weight:900;
+    color: aliceblue;
+    
+}
+h1, p{color: aliceblue;
+    
+}
+h1{
+
+    font-size: 30pt;
+}
+.top-bannder-black{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    column-gap: 10px;
+    padding-bottom: 20px;
+    justify-content: center
+    
+}
+.contant-p{
+    width: 50%;
+padding-left: 20%;}
+.image-div{
+   
+    margin-top: 30px;
+}
+
+/* section two */
+
+.buttion-div{
+    
+}
