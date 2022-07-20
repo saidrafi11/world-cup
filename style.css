@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,300&display=swap');
 body{
     font-family: 'Kanit', sans-serif;
+;
 }
 section{
     margin-top: 20px;
@@ -149,7 +150,7 @@ text-align: center;
     display: grid;
     grid-template-columns:repeat(6, 1fr);
     cursor: pointer;
-    padding-left: 10%;
+    
     justify-items: center;
     
 }
